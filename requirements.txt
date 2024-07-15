@@ -1,0 +1,17 @@
+jax
+
+jupyter
+jupyterlab
+ipython
+ipykernel
+ipywidgets
+
+numpy
+matplotlib
+scikit-learn
+pandas
+seaborn
+
+
+
+
