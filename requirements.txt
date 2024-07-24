@@ -13,6 +13,8 @@ scikit-learn
 pandas
 seaborn
 
+prettytable
+
 
 
 
